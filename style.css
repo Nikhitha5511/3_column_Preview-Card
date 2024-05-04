@@ -15,18 +15,18 @@ h1{
 }
 
 .sedans_Container{
-    width:330px;
+    width:300px;
     height:400px;
     background-color:hsl(31, 77%, 52%);
 }
 
 .suvs_Container{
-    width:330px;
+    width:300px;
     height:400px;
     background-color: hsl(184, 100%, 22%);
 }
 .luxury_Container{
-    width:330px;
+    width:300px;
     height:400px;
     background-color:hsl(179, 100%, 13%);
 }
